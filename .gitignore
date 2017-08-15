@@ -6,3 +6,4 @@ earth
 *.pdf
 *.jpg
 *.docx
+!manual.pdf
